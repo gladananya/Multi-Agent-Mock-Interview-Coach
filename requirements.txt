@@ -1,0 +1,6 @@
+langgraph
+langchain-groq
+python-dotenv
+requests
+tavily-python
+pypdf
